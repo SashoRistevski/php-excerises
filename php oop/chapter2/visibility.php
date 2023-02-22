@@ -12,7 +12,7 @@ $subObject = new SubClass();
 //echo $subObject->publicProperty . PHP_EOL;
 //echo $subObject->getParentProtectedProperty();
 
-print $subObject->getParentPrivateProperty() .PHP_EOL;
+print $subObject->getParentPrivateProperty() . PHP_EOL;
 
 //echo $subObject->getParentPrivateProperty();
 
